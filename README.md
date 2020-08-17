@@ -226,12 +226,7 @@ khi đã có p, q, e và cipher text rồi ta chỉ cần đơn giản là làm 
 
 #### flag: flag{ahihi_cR@ck1ng_pUcL1c_k3y_iS_v3RY_eASY_0KL4_ab7c9a2d61e029b}
 
-## II) Wep
 
-### 1. Specical file
-The File tells the search engine crawlers know the pages or files which the crawler can or can't request from your site.
-http://10.104.0.100:1337, http://45.122.249.68:1337/
-----------------------------------------------------------------------------
 
 
 
